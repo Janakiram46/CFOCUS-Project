@@ -1,0 +1,19 @@
+1.Speed,stamina
+2.fearful
+3.Good Looking
+4.Formal(simple)
+5.fast and thoughtful
+6.workaholic,Strict Disciplinarians
+7.Introvert,choosy
+8.Messi,Dhoni,ronaldo
+----------------------------------------------------
+Sonali Thite:
+Body lan guage
+Clothes
+Accessories
+Fashionable/ Simple/ Average
+Walking Styles
+Decision making - fast/ quick/ slow and thoughtful
+Workaholics/ Rule benders/ Law breakers/ Strict disciplinarians
+Friendly/ Introverts/ Choosy
+Examples of famous personality
