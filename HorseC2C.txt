@@ -5,7 +5,8 @@
 5.fast and thoughtful
 6.workaholic,Strict Disciplinarians
 7.Introvert,choosy
-8.Messi,Dhoni,ronaldo
+8.Messi,Dhoni
+9.Be calm in unwanted situations.
 ----------------------------------------------------
 Sonali Thite:
 Body lan guage
