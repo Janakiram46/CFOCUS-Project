@@ -1,0 +1,22 @@
+<h1 align="center"> User Admin Login Page</h1>
+	<form  onsubmit="return validation()"  method="post">
+		
+		<table class="center">
+		
+			<tr>
+				<td style="color: blue">User Name :</td>
+				<td><input type="text" id="username" placeholder="username"
+					name="username" title="Enter your registered name"></td>
+			</tr>
+			<tr>
+				<td style="color: blue">Password :</td>
+				<td><input type="password" id="password" placeholder="Password"
+					name="password" title="Enter your registered password"></td>
+			</tr>
+			
+			<tr>
+				<td><input type="submit"   placeholder="login"></td>
+			</tr>
+		</table>
+		
+	</form>
